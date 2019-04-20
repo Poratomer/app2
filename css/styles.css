@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  background-color: azure;
+  text-align: center;
+}
+
+/* fonts
+font-family: 'Indie Flower', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Amatic SC', cursive; heb
+font-family: 'M PLUS Rounded 1c', sans-serif; heb
+*/
+h1 {
+  font-family: 'Indie Flower', cursive;
+  font-size: 72px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2rem;
+  margin-top: 0;
+}
+
+.skills_img {
+  width: 25%;
+}
+.top-container {
+  background-color: azure;
+  margin: 0 auto;
+}
+.middle-container {
+  background-color: white;
+  margin: 0 auto;
+}
+.contact-me {
+  background-color: azure;
+  margin: 0 auto;
+}
+#logo {
+  width: 25%;
+}
