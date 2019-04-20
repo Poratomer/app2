@@ -60,13 +60,13 @@ p {
 }
 #ball {
   position: absolute;
-  right: 10%;
+  right: 5%;
   top: 20px;
   width: 10%;
 }
 #weights {
   position: absolute;
-  left: 10%;
+  left: 5%;
   top: 20px;
   width: 10%;
 }
