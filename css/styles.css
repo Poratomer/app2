@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-color: azure;
+  background-color: white;
   text-align: center;
 }
 
@@ -10,11 +10,13 @@ font-family: 'Dancing Script', cursive;
 font-family: 'Shadows Into Light', cursive;
 font-family: 'Amatic SC', cursive; heb
 font-family: 'M PLUS Rounded 1c', sans-serif; heb
+font-family: 'Bellefair', serif;
 */
 h1 {
   font-family: 'Indie Flower', cursive;
   font-size: 92px;
-  margin-bottom: 0;
+  margin: 0 auto;
+  padding-top: 10px;
 }
 
 h2 {
@@ -22,16 +24,25 @@ h2 {
   font-size: 2rem;
   margin-top: 0;
 }
-
+h3 {
+  font-family: 'Bellefair', serif;
+  font-size: 2rem;
+  margin: 0;
+}
+p {
+  font-family: 'Bellefair', serif;
+  font-size: 1.5rem;
+  margin: 0;
+}
 .skills_img {
-  width: 25%;
+  width: 20%;
 }
 .top-container {
   background-color: azure;
   margin: 0 auto;
 }
 .middle-container {
-  background-color: white;
+
   margin: 0 auto;
 }
 .contact-me {
@@ -39,5 +50,5 @@ h2 {
   margin: 0 auto;
 }
 #logo {
-  width: 25%;
+  width: 50%;
 }
