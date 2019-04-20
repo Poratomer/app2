@@ -47,7 +47,7 @@ p {
   margin: 0 auto;
 }
 .middle-container {
-
+  position: relative;
   margin: 0 auto;
 }
 .contact-me {
@@ -55,5 +55,18 @@ p {
   margin: 0 auto;
 }
 #logo {
+  position: relative;
   width: 50%;
+}
+#ball {
+  position: absolute;
+  right: 150px;
+  top: 20px;
+  width: 10%;
+}
+#weights {
+  position: absolute;
+  left: 150px;
+  top: 20px;
+  width: 10%;
 }
