@@ -19,6 +19,9 @@ h1 {
   margin: 0 auto;
   padding-top: 10px;
 }
+.sivan {
+  color: black;
+}
 
 h2 {
   font-family: 'Shadows Into Light', cursive;
@@ -81,8 +84,8 @@ a:hover {
 .middle-container {
   position: relative;
   text-align: right;
-  width: 50%;
-  margin: 100px auto 0 auto;
+  width: 65%;
+  margin: 20px auto 0 auto;
 }
 .contact-me {
 
@@ -100,7 +103,7 @@ a:hover {
 #logo {
   position: relative;
   margin: auto;
-  width: 100%;
+  width: 75%;
 }
 #ball {
   position: absolute;
